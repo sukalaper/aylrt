@@ -1,6 +1,6 @@
 // prettier-ignore
 export default [
-    { author: "Ibu", quotes: "Sih, ibu kangen, sering-sering videocall ibu ya, nak!" },
+    { author: "Ibu", quotes: "Sih, ibu kangen, sering-sering videocall ibu ya!" },
     { author: "Ibu", quotes: "Sih, jaga diri." },
     { author: "Bapak", quotes: "Sih, jaga kepercayaan bapak." },
     { author: "Mira", quotes: "Asssihhhhh, mira kangen." },
@@ -13,4 +13,5 @@ export default [
     { author: "Tukang Cuci Steam", quotes: "Mbak, udah gak mau nyuci motor sama saya lagi?" },
     { author: "Abang Grab", quotes: "Mbak, hati-hati disana ya, katanya orang cantik kayak mbak bahaya loh." },
     { author: "Tukang Cuanki", quotes: "Mbak, hati-hati, jangan cantik-cantik kenapasih jadi perempuan, sebel." },
+    { author: "Semua tukang makanan", quotes: "Kami selaku perkumpulan tukang jajan ingin mengucapkan hati-hati kepada mbak asih, semoga apa yang di inginkan tersampai, aamiin." },
 ];
