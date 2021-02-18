@@ -3,7 +3,7 @@ export default {
   greetings: {
     evening: "Selamat Beristirahat",
     afternoon: "Selamat Sore",
-    day: "Semoga Hari-mu Menyenangkan",
+    day: "Semoga Allah Menjaga Setiap Langkah-mu.",
     morning: "Selamat Pagi",
     night: "Selamat Malam"
   }
