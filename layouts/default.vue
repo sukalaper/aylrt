@@ -1,6 +1,8 @@
 <template>
   <v-app>
-    <audio src="~/assets/music.mp3" autoplay controls loop style="opacity:0" />
+    <audio hidden autoplay loop>
+    <source src="/assets/music.mp3" type="audio/mpeg">
+    </audio>
       <nuxt />
   </v-app>
 </template>
